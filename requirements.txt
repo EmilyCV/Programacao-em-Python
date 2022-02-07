@@ -1,0 +1,3 @@
+lxml==4.7.1
+Send2Trash==1.8.0
+somepackage==1.2.3
