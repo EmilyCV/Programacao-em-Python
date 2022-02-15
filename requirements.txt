@@ -1,5 +1,6 @@
 autopep8==1.6.0
 lxml==4.7.1
+passlib==1.7.4
 pycodestyle==2.8.0
 Send2Trash==1.8.0
 somepackage==1.2.3
